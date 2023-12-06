@@ -1,0 +1,1 @@
+# Detection-of-Open-Wounds-on-the-Skin-Project
